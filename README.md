@@ -61,5 +61,5 @@ If citing this method in academic or public works, please use:
 ## Contact
 
 For permission requests or scholarly collaboration:  
-**Email:** [optional — include only if desired]  
-**Author's Website:** [optional if you launch one later]
+**Email:** justgil@mail.regent.edu
+**Author's Website:** TBD
