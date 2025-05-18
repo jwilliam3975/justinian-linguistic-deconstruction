@@ -1,5 +1,8 @@
 # Justinian Linguistic Deconstruction (JLD)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15455235.svg)](https://doi.org/10.5281/zenodo.15455235)
+
+
 **Author:** J. William Gill  
 **Date of First Use:** December 2024  
 **Date of Declaration:** May 2025
