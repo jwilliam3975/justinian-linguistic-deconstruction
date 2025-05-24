@@ -13,6 +13,8 @@
 
 ---
 
+Now includes full methodology write-up: JLD_Methodology_Guide.pdf
+
 ## Key Features
 
 - Tracks ancient origin of each letter-form
