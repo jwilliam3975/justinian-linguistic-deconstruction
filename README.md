@@ -68,3 +68,4 @@ If citing this method in academic or public works, please use:
 For permission requests or scholarly collaboration:  
 **Email:** justgil@mail.regent.edu
 **Author's Website:** TBD
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15455235.svg)](https://doi.org/10.5281/zenodo.15455235)
